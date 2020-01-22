@@ -1,2 +1,0 @@
-# Pongy
-Created with CodeSandbox
